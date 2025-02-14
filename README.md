@@ -1,9 +1,8 @@
 # A Capstone Project for Machine Learning Accelerator Program 
 (Professional Training Program for Data Science & Applied Machine Learning)
-## Author: Youming Xu
-
 
 # Project Name:  Obesity-Prediction
+## Author: Youming Xu
 Estimation of obesity levels in individuals
 
 ## Overview
