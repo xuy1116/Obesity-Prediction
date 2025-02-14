@@ -2,7 +2,7 @@
 A-to-Z Professional Training Program for Data Science & Applied Machine Learning
 # Author: Youming Xu
 <br>
-# Project Name: Obesity-Prediction
+# Project Name - Obesity-Prediction
 Estimation of obesity levels in individuals
 
 ## Overview
