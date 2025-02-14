@@ -1,4 +1,4 @@
-# A Capstone Project for  machine Learning Machine Learning Accelerator Program
+# A Capstone Project for Machine Learning Accelerator Program
 A-to-Z Professional Training Program for Data Science & Applied Machine Learning
 # Author: Youming Xu
 
